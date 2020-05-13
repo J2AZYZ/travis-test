@@ -1,3 +1,7 @@
 language: python
 sudo: required
 script: python test.py
+notifications:
+  email:
+    - 714917570@qq.com
+
