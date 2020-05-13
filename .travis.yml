@@ -4,4 +4,5 @@ script: python test.py
 notifications:
   email:
     - 714917570@qq.com
+  on_success: always  
 
